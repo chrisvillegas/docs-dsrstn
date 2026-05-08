@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chrisvillegas.github.io/docs-dsrstn/sitemap.xml
